@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
