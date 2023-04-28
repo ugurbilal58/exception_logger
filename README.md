@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.0.229 add model.embed() method (#7098)
