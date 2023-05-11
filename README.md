@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
