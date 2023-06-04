@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
