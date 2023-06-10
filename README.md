@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update mkdocs.yml (#7693)
