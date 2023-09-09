@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix OBB xywh-angle concatenation bug (#7404)
