@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
