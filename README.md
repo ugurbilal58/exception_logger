@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add docs guide terminal images (#8819)
