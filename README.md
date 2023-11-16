@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add horizontal Mosaic3 augmentation (#6898)
