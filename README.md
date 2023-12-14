@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Replace onnx2tf usage from CLI to Python (#8429)
