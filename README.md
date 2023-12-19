@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
