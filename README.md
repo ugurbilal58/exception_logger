@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
