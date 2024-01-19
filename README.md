@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
