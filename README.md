@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add horizontal Mosaic3 augmentation (#6898)
