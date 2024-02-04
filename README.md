@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+docs: update view-results-in-terminal.md (#66)
