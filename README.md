@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update HTTP to HTTPS (#7548)
