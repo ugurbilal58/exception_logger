@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Improve Coral Edge TPU guide (#8160)
