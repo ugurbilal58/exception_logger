@@ -1,1 +1,1 @@
-fix val each epoch
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
