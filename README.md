@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
