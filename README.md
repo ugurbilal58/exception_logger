@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+fix yolo classify model loading error (#9196)
