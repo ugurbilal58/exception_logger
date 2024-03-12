@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix IS_PYTHON_3_12 bug (#9258)
