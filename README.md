@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Compare plt.get_backend() in lowercase (#8409)
