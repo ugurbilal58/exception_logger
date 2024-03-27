@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+docs: update view-results-in-terminal.md (#66)
