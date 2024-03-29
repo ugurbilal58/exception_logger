@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
