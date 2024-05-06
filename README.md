@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
