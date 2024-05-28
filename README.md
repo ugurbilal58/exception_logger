@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
