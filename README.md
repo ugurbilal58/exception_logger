@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Fix RTDETR generate anchor grid out of boundary (#7247)
