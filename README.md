@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Move Explorer tests to scheduled CI (#8305)
