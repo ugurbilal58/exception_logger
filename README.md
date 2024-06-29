@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
