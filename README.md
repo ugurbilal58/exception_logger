@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
