@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
