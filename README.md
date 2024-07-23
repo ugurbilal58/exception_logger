@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
