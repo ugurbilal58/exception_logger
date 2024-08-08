@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
