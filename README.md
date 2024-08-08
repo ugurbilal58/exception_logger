@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Retry once for Docker CI failures (#8164)
