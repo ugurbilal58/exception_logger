@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
