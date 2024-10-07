@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Fix OpenVINO missing batch-size bug (#9264)
