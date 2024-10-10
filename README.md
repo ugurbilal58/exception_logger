@@ -1,1 +1,1 @@
-example Google Colab
+Improve Docs Modes tables (#8266)
