@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix docs links (#7096)
