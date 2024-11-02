@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
