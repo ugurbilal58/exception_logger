@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Object Counter improvements (#8648)
