@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
