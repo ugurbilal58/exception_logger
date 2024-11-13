@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Fix RTDETR generate anchor grid out of boundary (#7247)
