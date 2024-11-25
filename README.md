@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
